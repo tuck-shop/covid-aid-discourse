@@ -8,10 +8,11 @@ $primary:'#ff00ff';
   --base-font-size: 1rem;
   --font-family: 'Poppins';
   --primary: #29235c;
-  --primary-medium: var(--primary);
+  --primary-medium: #393181;
   --secondary: #fff;
   --tertiary: #29235c;
   --quaternary: #42CB7F;
+  --header-primary: var(--primary);
 
 }
 // var(--primary)
