@@ -16,6 +16,10 @@ $primary:'#ff00ff';
 
 }
 
+.d-header {
+  height: initial;
+}
+
 .d-header #site-logo {
   height: 40px;
   width: 200px;
@@ -24,6 +28,7 @@ $primary:'#ff00ff';
 
 .d-header>.wrap {
   max-width: none;
+  padding: 50px;
 }
 
 .headerLink a:hover {
