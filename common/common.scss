@@ -26,6 +26,11 @@ $primary:'#ff00ff';
 
 }
 
+.d-header .login-button, .d-header .sign-up-button {
+  padding: 16px 32px
+  border-radius: 0.5rem;
+}
+
 .d-header>.wrap {
   max-width: none;
   padding: 48px 50px 50px;
