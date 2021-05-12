@@ -15,6 +15,10 @@ $primary:'#ff00ff';
   --header_primary: var(--primary);
 
 }
+
+.headerLink a:hover {
+  color: black;
+}
 // var(--primary)
 // var(--secondary)
 // var(--tertiary)
