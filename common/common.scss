@@ -18,6 +18,7 @@ $primary:'#ff00ff';
 
 .d-header {
   height: initial;
+  box-shadow: none;
 }
 
 .d-header #site-logo {
@@ -30,6 +31,8 @@ $primary:'#ff00ff';
   padding: 16px 32px
   border-radius: 0.5rem;
 }
+
+
 
 .d-header>.wrap {
   max-width: none;
