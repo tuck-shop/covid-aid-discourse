@@ -19,8 +19,12 @@ $primary:'#ff00ff';
 .d-header #site-logo {
   height: 40px;
   width: 200px;
+
 }
 
+.d-header>.wrap {
+  max-width: none;
+}
 
 .headerLink a:hover {
   color: black;
