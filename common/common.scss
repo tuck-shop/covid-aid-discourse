@@ -30,6 +30,13 @@ $primary:'#ff00ff';
 .d-header .login-button, .d-header .sign-up-button {
   padding: 16px 32px;
   border-radius: 0.5rem;
+  svg {
+    display:none;
+  }
+}
+
+.d-header .sign-up-button {
+  background: var(--quaternary);
 }
 
 
