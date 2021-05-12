@@ -8,7 +8,7 @@ $primary:'#ff00ff';
   --base-font-size: 1rem;
   --font-family: 'Poppins';
   --primary: #29235c;
-  --primary-medium: red;
+  --primary-medium: var(--primary);
   --secondary: #fff;
   --tertiary: #29235c;
   --quaternary: #42CB7F;
